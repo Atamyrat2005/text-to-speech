@@ -1,4 +1,4 @@
-from gtts import gTTS # pip install gtts
+from gtts import gTTS
 from random import randint
 import os
 
